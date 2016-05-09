@@ -1,0 +1,310 @@
+##---Question---##
+What is the size of wchar_t in C++?
+##ans1##
+2
+##ans2##
+4
+##ans3##
+based on the number of bits in the system
+##ans4##
+3
+##ans5##
+2 or 4
+##correct##
+3
+##---Question---##
+The size of an object or a type can be determined using which operator?
+##ans1##
+sizeof
+##ans2##
+malloc
+##ans3##
+float
+##ans4##
+nothing
+##ans5##
+calloc
+##correct##
+1
+##---Question---##
+The size_t integer type in C++ is?
+##ans1##
+ Unsigned integer of at least 64 bits
+##ans2##
+Signed integer of at least 16 bits
+##ans3##
+Unsigned integer of at least 16 bits
+##ans4##
+Signed integer of at least 64 bits
+##ans5##
+125
+##correct##
+3
+##---Question---##
+Who is your name?
+##ans1##
+man
+##ans2##
+women
+##ans3##
+none
+##ans4##
+value
+##ans5##
+nothing
+##correct##
+1
+##---Question---##
+               #include <iostream>
+
+        using namespace std;
+
+        int main()
+
+        {
+
+            int a = 8;
+
+            cout << "ANDing integer 'a' with 'true' :" << a && true;
+
+            return 0;
+
+        }
+What is the output of the following program?
+##ans1##
+ANDing integer ‘a’ with ‘true’ :8
+##ans2##
+ANDing integer ‘a’ with ‘true’ :0
+##ans3##
+compiler error
+##ans4##
+no ans here
+##ans5##
+ANDing integer ‘a’ with ‘true’ :1
+##correct##
+1
+##---Question---##
+ What will be output of this function?
+
+        int main()
+
+        {
+
+            register int i = 1;
+
+            int *ptr = &i;
+
+            cout << *ptr;
+
+    	return 0;
+
+        }
+##ans1##
+0
+##ans2##
+1
+##ans3##
+compiler error
+##ans4##
+no ans here
+##ans5##
+runtime error
+##correct##
+3
+##---Question---##
+c++ programming is ?
+##ans1##
+low
+##ans2##
+middle
+##ans3##
+high
+##ans4##
+noneof them
+##ans5##
+2 and 3
+##correct##
+5
+##---Question---##
+        #include <iostream>
+
+        using namespace std;
+
+        int main()
+
+        {
+
+        	int x = -1;
+
+            unsigned int y = 2;
+
+     
+
+            if(x > y) {
+
+            	cout << "x is greater";
+
+        	} else {
+
+        		cout << "y is greater";
+
+        	}
+
+        }
+What is the output of the following program?
+##ans1##
+x is greater
+##ans2##
+y is greater
+##ans3##
+x and y is greater
+##ans4##
+x and y are equal
+##ans5##
+compiler error
+##correct##
+1
+##---Question---##
+What is the size of wchar_t in C++?
+##ans1##
+2
+##ans2##
+4
+##ans3##
+based on the number of bits in the system
+##ans4##
+3
+##ans5##
+2 or 4
+##correct##
+3
+##---Question---##
+The size of an object or a type can be determined using which operator?
+##ans1##
+sizeof
+##ans2##
+malloc
+##ans3##
+float
+##ans4##
+nothing
+##ans5##
+calloc
+##correct##
+1
+##---Question---##
+Which datatype is used to represent the absence of parameters?
+##ans1##
+int
+##ans2##
+void
+##ans3##
+float
+##ans4##
+char
+##ans5##
+long
+##correct##
+2
+##---Question---##
+The size_t integer type in C++ is?
+##ans1##
+ Unsigned integer of at least 64 bits
+##ans2##
+Signed integer of at least 16 bits
+##ans3##
+Unsigned integer of at least 16 bits
+##ans4##
+Signed integer of at least 64 bits
+##ans5##
+125
+##correct##
+3
+##---Question---##
+Who is your name?
+##ans1##
+man
+##ans2##
+women
+##ans3##
+none
+##ans4##
+value
+##ans5##
+nothing
+##correct##
+1
+
+##---Question---##
+What is the size of wchar_t in C++?
+##ans1##
+2
+##ans2##
+4
+##ans3##
+based on the number of bits in the system
+##ans4##
+3
+##ans5##
+2 or 4
+##correct##
+3
+##---Question---##
+The size of an object or a type can be determined using which operator?
+##ans1##
+sizeof
+##ans2##
+malloc
+##ans3##
+float
+##ans4##
+nothing
+##ans5##
+calloc
+##correct##
+1
+##---Question---##
+Which datatype is used to represent the absence of parameters?
+##ans1##
+int
+##ans2##
+void
+##ans3##
+float
+##ans4##
+char
+##ans5##
+long
+##correct##
+2
+##---Question---##
+The size_t integer type in C++ is?
+##ans1##
+ Unsigned integer of at least 64 bits
+##ans2##
+Signed integer of at least 16 bits
+##ans3##
+Unsigned integer of at least 16 bits
+##ans4##
+Signed integer of at least 64 bits
+##ans5##
+125
+##correct##
+3
+##---Question---##
+Who is your name?
+##ans1##
+man
+##ans2##
+women
+##ans3##
+none
+##ans4##
+value
+##ans5##
+nothing
+##correct##
+1
+
+
+
